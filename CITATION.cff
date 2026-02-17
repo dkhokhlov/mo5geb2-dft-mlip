@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Mo5GeB2 DFT + MLIP Electronic Structure and Phonon Calculations"
+authors:
+  - family-names: "Khokhlov"
+    given-names: "Dmitri Yu."
+repository-code: "https://github.com/dkhokhlov/mo5geb2-dft-mlip"
+license: Apache-2.0
+version: "1.0.0"
+date-released: "2026-02-17"
+keywords:
+  - density-functional-theory
+  - machine-learning-interatomic-potentials
+  - superconductivity
+  - materials-science
+  - phonons
+  - GPAW
+  - MACE
+  - Mo5GeB2
+abstract: >-
+  Ab initio electronic structure (DFT-PBE) and phonon calculations
+  (MACE-MP-0) for Mo5GeB2, a GNoME-predicted type-II superconductor
+  (Tc = 5.8 K). Includes ground-state SCF, band structure, density
+  of states, phonon dispersion, and McMillan Tc estimation.

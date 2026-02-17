@@ -1,0 +1,12 @@
+*.gpw
+*.dat
+*.png
+mo5geb2_phonon/
+mo5geb2/
+
+
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
