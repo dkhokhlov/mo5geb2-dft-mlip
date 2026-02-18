@@ -377,7 +377,7 @@ Mo5GeB2 - Cr5B3-type (I4/mcm, No. 140)
 
 Apache 2.0 — see [LICENSE](LICENSE).
 
-If you use this work in academic research, please cite it (GitHub will show a "Cite this repository" button):
+If you use this work in academic research, please cite it (see "Cite this repository" lin in repo About):
 
 ```bibtex
 @software{khokhlov2026mo5geb2,
