@@ -5,6 +5,7 @@ title: "Mo5GeB2 DFT + MLIP Electronic Structure and Phonon Calculations"
 authors:
   - family-names: "Khokhlov"
     given-names: "Dmitri Yu."
+    orcid: "https://orcid.org/0009-0007-0686-2030"
 repository-code: "https://github.com/dkhokhlov/mo5geb2-dft-mlip"
 license: Apache-2.0
 version: "1.0.0"

@@ -25,7 +25,7 @@ band structure, density of states, phonon dispersion, and a McMillan T_c estimat
 
 ## Author
 
-**Dmitri Yu. Khokhlov** — [IEEE publications](https://ieeexplore.ieee.org/author/37376531700) · [GitHub](https://github.com/dkhokhlov)
+**Dmitri Yu. Khokhlov** — [ORCID](https://orcid.org/0009-0007-0686-2030) · [IEEE publications](https://ieeexplore.ieee.org/author/37376531700) · [GitHub](https://github.com/dkhokhlov)
 
 Prior work in superconducting electronics: RSFQ digital devices and SFQ NDRO cells (IEEE Trans. Appl. Supercond., 1993).
 
